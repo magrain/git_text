@@ -20,6 +20,5 @@ indexの中身確認　
 ~~~
 git ls-files --stage
 ~~~
-
+aaaaaaaaaa
 test
-
